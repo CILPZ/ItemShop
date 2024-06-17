@@ -1,12 +1,12 @@
-CID_048_Athena_Commando_F_HolidayGingerbread, 1500
-CID_049_Athena_Commando_M_HolidayGingerbread, 1500
+CID_703_Athena_Commando_M_Cyclone, 0
+CID_761_Athena_Commando_M_CycloneSpace, 500
 Pickaxe_ID_329_GingerbreadCookie1H, 0
 na
 na
 na
-BID_026_Brite, 600
+Pickaxe_ID_STW005_Tier_6, 100
 Wrap_016_CuddleTeam, 300
-EID_RockPaperScissors, 200
-EID_CrabDance, 500
+EID_Cyclone, 100
+BlueFlames_Bundle, 500
 Pickaxe_Flamingo, 800
-CID_044_Athena_Commando_F_SciPop, 1200
+MusicPack_000_STW_Default, 1000
